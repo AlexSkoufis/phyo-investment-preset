@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "Phyo Partners | Long-term capital for founder and family-owned companies",
+    "description": "Phyo Partners invests in founder and family-owned manufacturing, industrial and business-services companies, with flexible long-term capital and hands-on operating support. Based in Columbus, Ohio.",
+    "siteName": "Phyo Partners"
+  },
+  "brand": {
+    "name": "Phyo Partners",
+    "shortName": "Phyo",
+    "wordmarkSub": "Investment Partners",
+    "homeLabel": "Phyo Partners, home"
+  },
+  "nav": {
+    "label": "Main navigation",
+    "items": [
+      { "label": "Home", "href": "/" },
+      {
+        "label": "About",
+        "href": "#",
+        "children": [
+          { "label": "Our story", "href": "#" },
+          { "label": "Philosophy", "href": "#philosophy" },
+          { "label": "Why Phyo", "href": "#what" },
+          { "label": "Our team", "href": "#" }
+        ]
+      },
+      {
+        "label": "Portfolio",
+        "href": "#portfolio",
+        "children": [
+          { "label": "Criteria", "href": "#fit" },
+          { "label": "Investments", "href": "#portfolio" },
+          { "label": "Heartland Fund", "href": "#regional" }
+        ]
+      },
+      { "label": "Insights", "href": "#" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "investors": { "label": "Investor login", "href": "#" },
+    "cta": { "label": "Start a conversation", "href": "#contact" },
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "skipLink": "Skip to content"
+  },
+  "contact": {
+    "email": "hello@phyo.example",
+    "phone": "+1 (000) 000-0000",
+    "phoneHref": "tel:+10000000000",
+    "addressLines": ["200 Riverline Plaza, Suite 1400", "Columbus, OH 43215"]
+  },
+  "social": [
+    { "label": "LinkedIn", "href": "#" },
+    { "label": "X (Twitter)", "href": "#" }
+  ],
+  "footer": {
+    "statement": "Long-term capital and hands-on partnership for founder and family-owned companies.",
+    "cta": { "label": "Start a confidential conversation", "href": "#contact" },
+    "columns": [
+      {
+        "title": "Firm",
+        "links": [
+          { "label": "Our story", "href": "#" },
+          { "label": "Philosophy", "href": "#philosophy" },
+          { "label": "Why Phyo", "href": "#what" },
+          { "label": "Our team", "href": "#" }
+        ]
+      },
+      {
+        "title": "Portfolio",
+        "links": [
+          { "label": "Criteria", "href": "#fit" },
+          { "label": "Investments", "href": "#portfolio" },
+          { "label": "Heartland Fund", "href": "#regional" }
+        ]
+      },
+      {
+        "title": "Connect",
+        "links": [
+          { "label": "Insights", "href": "#" },
+          { "label": "Contact", "href": "#contact" },
+          { "label": "Investor login", "href": "#" }
+        ]
+      }
+    ],
+    "contactTitle": "Visit or call",
+    "copyright": "Phyo Partners. All rights reserved.",
+    "legal": [
+      { "label": "Privacy Policy", "href": "#" },
+      { "label": "Legal Disclaimer", "href": "#" }
+    ],
+    "credit": {
+      "prefix": "Designed by",
+      "label": "CoreConcepts Design",
+      "href": "https://coreconcepts.design/"
+    },
+    "backToTop": "Back to top",
+    "navLabel": "Footer"
+  }
+}

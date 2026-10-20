@@ -1,0 +1,265 @@
+{
+  "hero": {
+    "eyebrow": "Private investment firm · Columbus, Ohio",
+    "titleLines": ["Patient capital.", "Hands-on partners."],
+    "titleAccentLine": 1,
+    "lead": "We invest in founder and family-owned manufacturing, industrial and business-services companies, then help them build the people, processes and systems to grow. No fixed exit clock. No spreadsheet-only thinking.",
+    "primaryCta": { "label": "Start a confidential conversation", "href": "#contact" },
+    "secondaryCta": { "label": "See if your company fits", "href": "#fit" },
+    "definition": {
+      "term": "phyo",
+      "phonetic": "/ˈfaɪ.oʊ/",
+      "text": "From the Greek phýō: to bring forth, to make grow. The root of every word for living, growing things."
+    },
+    "scrollHint": "Scroll",
+    "stats": [
+      { "value": 90, "prefix": "", "suffix": "+", "label": "Years of combined investing and operating experience" },
+      { "value": 3, "prefix": "$", "suffix": "M to $25M", "label": "EBITDA range of the companies we partner with" },
+      { "value": 14, "prefix": "", "suffix": "", "label": "Companies in our current portfolio" }
+    ]
+  },
+  "audience": {
+    "id": "who",
+    "eyebrow": "Who we work with",
+    "title": "One firm, four kinds of partnership.",
+    "intro": "Tell us where you sit at the table. Here is what working with Phyo looks like from your side.",
+    "tabsLabel": "Choose your perspective",
+    "tabs": [
+      {
+        "key": "owners",
+        "label": "Founders & families",
+        "title": "Plan the next chapter without giving up what you built.",
+        "text": "Whether you are planning retirement or handing over to the next generation, we buy into companies to own them for the long run. Your people, customers and community stay at the center of every decision.",
+        "points": [
+          "Retirement and family succession solutions",
+          "Long-term ownership, not a quick flip",
+          "Stewards of your employees, customers and community"
+        ],
+        "cta": { "label": "Talk to us confidentially", "href": "#contact" }
+      },
+      {
+        "key": "management",
+        "label": "Management teams",
+        "title": "Back your growth plan with capital and a partner who has run companies.",
+        "text": "We are close enough to know your people and the numbers that drive the business, and far enough back to let you run it. When you need more, we bring it.",
+        "points": [
+          "Strategic plans, financial modeling and analysis",
+          "Add-on acquisition screening and negotiation",
+          "Lender relationships, recruiting and customer introductions"
+        ],
+        "cta": { "label": "Discuss your growth plan", "href": "#contact" }
+      },
+      {
+        "key": "intermediaries",
+        "label": "Intermediaries",
+        "title": "A buyer that does what it says.",
+        "text": "We bring speed, certainty and creativity to lower-middle-market transactions, with efficient diligence and criteria you can screen against in a minute.",
+        "points": [
+          "EBITDA of $3M to $25M, based in the US or Canada",
+          "Majority control preferred, select minority stakes considered",
+          "Flexible structures without excessive leverage"
+        ],
+        "cta": { "label": "Share an opportunity", "href": "#contact" }
+      },
+      {
+        "key": "investors",
+        "label": "Investors",
+        "title": "Put capital to work with an active, aligned partner.",
+        "text": "Our model suits family offices and private investors who want an operating partner able to deploy capital carefully in the lower-middle market.",
+        "points": [
+          "Capital from our principals, families and private investors",
+          "Long-term horizon with no predetermined holding period",
+          "Focus on sectors our team has operated in"
+        ],
+        "cta": { "label": "Make an investor inquiry", "href": "#contact" }
+      }
+    ]
+  },
+  "capabilities": {
+    "id": "what",
+    "eyebrow": "What we bring",
+    "title": "Capital is the start. The partnership is the point.",
+    "intro": "Our name means to make grow. Here is how that shows up after the deal closes.",
+    "items": [
+      {
+        "number": "01",
+        "title": "Flexible long-term capital",
+        "text": "Capital from our principals and a small group of families and private investors, structured to fit the business rather than a fund's timeline."
+      },
+      {
+        "number": "02",
+        "title": "Operating experience",
+        "text": "Principals who have run plants, sales teams and P&Ls. We help put the systems, processes and people in place for the next stage of growth."
+      },
+      {
+        "number": "03",
+        "title": "Strategic and financial depth",
+        "text": "Support on strategy, financial modeling, add-on acquisitions and lender relationships, so your team can stay focused on running the business."
+      },
+      {
+        "number": "04",
+        "title": "A network that opens doors",
+        "text": "Advisors, operating veterans and industry specialists who help with technical problems, customer introductions and hard-to-fill roles."
+      }
+    ]
+  },
+  "fit": {
+    "id": "fit",
+    "eyebrow": "Investment criteria",
+    "title": "Is your company a fit? Find out in four clicks.",
+    "intro": "Answer four quick questions. Nothing is stored or sent anywhere.",
+    "yes": "Yes",
+    "no": "No",
+    "questions": [
+      { "key": "location", "label": "Location", "question": "Is the company based in the US or Canada?" },
+      { "key": "sector", "label": "Sector", "question": "Does it operate in manufacturing, industrial products, value-added distribution, logistics or business services?" },
+      { "key": "size", "label": "Size", "question": "Is annual EBITDA (cash flow) between $3M and $25M?" },
+      { "key": "situation", "label": "Situation", "question": "Are the owners planning retirement or succession, or is the team looking to grow the business?" }
+    ],
+    "progressLabel": "answered",
+    "results": {
+      "empty": {
+        "title": "Your fit score will appear here.",
+        "text": "Our core criteria: US and Canadian companies in manufacturing, industrial products, value-added distribution, logistics or business services, with EBITDA of $3M to $25M."
+      },
+      "strong": {
+        "title": "Strong fit. Let's talk.",
+        "text": "Your company matches our core criteria. A first conversation is confidential and carries no obligation.",
+        "cta": { "label": "Start a confidential conversation", "href": "#contact" }
+      },
+      "partial": {
+        "title": "Worth a conversation.",
+        "text": "You match most of our criteria. We also consider select minority investments, and our Heartland Fund covers a wider range of sectors.",
+        "cta": { "label": "Ask us directly", "href": "#contact" }
+      },
+      "low": {
+        "title": "Probably outside our core focus.",
+        "text": "We may not be the right partner today, but owners and intermediaries are always welcome to reach out. If we are not a fit, we will tell you quickly.",
+        "cta": { "label": "Get in touch anyway", "href": "#contact" }
+      }
+    },
+    "note": "We prefer majority-control investments and will consider select minority partnerships."
+  },
+  "principles": {
+    "id": "philosophy",
+    "eyebrow": "What we believe",
+    "title": "Business is a human endeavor, not a spreadsheet exercise.",
+    "items": [
+      {
+        "number": "01",
+        "title": "Long-term owners",
+        "text": "We want to own companies for a long time. Our structure lets us skip the heavy leverage and short-term decisions that come with short-term capital."
+      },
+      {
+        "number": "02",
+        "title": "Trusted stewards",
+        "text": "We care about the employees, communities and customers of every company we back, and we take seriously the trust placed in us for the next chapter of its history."
+      },
+      {
+        "number": "03",
+        "title": "People first",
+        "text": "We invest in people, and partner with management teams to take companies as far as they can go."
+      },
+      {
+        "number": "04",
+        "title": "Making things here",
+        "text": "Domestic manufacturing makes communities and families stronger. We work to keep and create manufacturing jobs close to home."
+      },
+      {
+        "number": "05",
+        "title": "Responsible ownership",
+        "text": "Our responsibility reaches beyond our companies. We build sound governance and community impact into how we invest and how we manage the portfolio."
+      }
+    ]
+  },
+  "process": {
+    "id": "process",
+    "eyebrow": "How it works",
+    "title": "From first call to the next chapter.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "A confidential conversation",
+        "text": "Tell us about the company, your goals and your timing. Owners, management teams and intermediaries are all welcome."
+      },
+      {
+        "number": "02",
+        "title": "Focused diligence",
+        "text": "We test fit against our criteria and run efficient diligence. We aim to be clear early and deliver on what we commit to."
+      },
+      {
+        "number": "03",
+        "title": "A structure that fits",
+        "text": "Capital structured around the business, with no predetermined holding period and no excessive debt."
+      },
+      {
+        "number": "04",
+        "title": "Growing together",
+        "text": "Your team runs the business. We help build the systems, processes and people for what comes next."
+      }
+    ]
+  },
+  "portfolio": {
+    "id": "portfolio",
+    "eyebrow": "Portfolio",
+    "title": "Market leaders with differentiated business models.",
+    "intro": "A representative selection of our current portfolio.",
+    "countLabel": "Current portfolio companies",
+    "listLabel": "Current portfolio companies by sector",
+    "marqueeLabel": "Current portfolio companies",
+    "current": [
+      { "name": "Ardent Foundry", "sector": "Steel castings & machining", "text": "Heavy-section steel castings and large-format precision machining." },
+      { "name": "Bellwick Controls", "sector": "Industrial controls", "text": "Custom control panels and automation for food and beverage plants." },
+      { "name": "Calloway Coatings", "sector": "Specialty finishes", "text": "Powder and e-coat finishing for agricultural and transport equipment." },
+      { "name": "Driftline Logistics", "sector": "Freight services", "text": "Regional dedicated freight and warehousing across the Midwest." },
+      { "name": "Everton Wire Works", "sector": "Wire harness", "text": "Engineered wire harnesses from prototype runs to high-volume production." },
+      { "name": "Fallbrook Fasteners", "sector": "Fasteners", "text": "Solid and semi-tubular rivets, made to order for more than fifty years." },
+      { "name": "Granton Rail Services", "sector": "Rail services", "text": "Track construction, maintenance and inspection for short-line railroads." },
+      { "name": "Halvorsen Tooling", "sector": "Precision tooling", "text": "Rotary and flatbed dies for packaging and label converters." },
+      { "name": "Ironleaf Packaging", "sector": "Industrial packaging", "text": "Engineered crates, dunnage and returnable packaging systems." },
+      { "name": "Juniper Polymers", "sector": "Extrusion", "text": "Custom profile and tubing extrusion for medical and industrial markets." },
+      { "name": "Kettering Stampings", "sector": "Engineered components", "text": "Precision washers, brackets and small progressive-die stampings." },
+      { "name": "Larchmont Workplace", "sector": "Commercial furniture", "text": "Durable workstation and lab furniture for schools and offices." },
+      { "name": "Meridale Nonwovens", "sector": "Filtration media", "text": "Meltblown and spunbond media for HVAC, automotive and medical filters." },
+      { "name": "Northgate Thermal", "sector": "Heat treating", "text": "Commercial heat treating and press hardening for automotive suppliers." }
+    ],
+    "exitedTitle": "Exited",
+    "exited": ["Ashby Machine", "Brookvale Transport", "Corran Health", "Delmont Die", "Eastway Supply", "Foxhill Fabrication"],
+    "cta": { "label": "Explore the portfolio", "href": "#" }
+  },
+  "regional": {
+    "id": "regional",
+    "eyebrow": "Heartland Fund",
+    "glyph": "OH",
+    "titleLines": ["An Ohio firm,", "investing local capital,", "in businesses next door."],
+    "text": "A partnership with established families across the region. The fund puts local capital to work in Ohio-based, largely family-owned businesses, preserving their legacies, creating and keeping jobs, and building long-term value for the communities around them.",
+    "pillars": [
+      { "title": "Growing", "text": "local companies" },
+      { "title": "Creating", "text": "local jobs" },
+      { "title": "Supporting", "text": "families and communities" }
+    ],
+    "cta": { "label": "About the fund", "href": "#" }
+  },
+  "contact": {
+    "id": "contact",
+    "eyebrow": "Start a conversation",
+    "title": "Every partnership starts with a confidential conversation.",
+    "text": "Share a few details and we will get back to you. Prefer to talk now? Call or email us directly.",
+    "form": {
+      "nameLabel": "Full name",
+      "emailLabel": "Email",
+      "companyLabel": "Company",
+      "roleLabel": "I am a",
+      "roleOptions": ["Business owner", "Management team", "Intermediary or advisor", "Investor", "Other"],
+      "messageLabel": "How can we help?",
+      "messagePlaceholder": "A few lines about the company, your goals and timing.",
+      "submit": "Send message",
+      "privacy": "Your message opens in your email app, addressed to our team. We treat every inquiry confidentially.",
+      "subject": "Website inquiry"
+    },
+    "directTitle": "Reach us directly",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "addressLabel": "Office"
+  }
+}
